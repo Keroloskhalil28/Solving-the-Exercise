@@ -1,2 +1,0 @@
-# Solving-the-Exercise
-Python
